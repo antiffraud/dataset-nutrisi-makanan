@@ -1,0 +1,7 @@
+# Berkas data disimpan apa adanya - jangan ubah akhir baris
+*.csv   -text
+*.json  -text
+*.gz    binary
+*.pdf   binary
+*.xlsx  binary
+*.ipynb -text
